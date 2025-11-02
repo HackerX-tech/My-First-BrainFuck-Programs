@@ -22,14 +22,6 @@ It operates on a simple memory tape, making it a great way to learn how logic an
 | `pseudoname-looped.bf` | Prints my pseudoname using loops (optimized version). |
 
 ---
-
-## 🧠 What I Learned
-- How ASCII codes work behind characters  
-- Loop logic and memory cell manipulation  
-- Writing minimal programs with precision and patience  
-
----
-
 ## 📚 Future Goals
 - Learn arithmetic operations (addition/subtraction)  
    
