@@ -30,5 +30,5 @@ It operates on a simple memory tape, making it a great way to learn how logic an
 ---
 
 ## 🧩 Author
-**Noob** — student exploring computer science through curiosity and logic.  
+**HackerX**  
 > "A single cell, eight symbols — infinite possibility."
