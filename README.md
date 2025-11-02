@@ -17,7 +17,7 @@ It operates on a simple memory tape, making it a great way to learn how logic an
 
 | File | Description |
 |------|--------------|
-| `hello-world.bf` | Prints "Hello, World! using loops(optimised version)" |
+| `hello-world.bf` | Prints "Hello, World!"using loops(optimised version) |
 | `pseudoname-simple.bf` | Prints my pseudoname (no loops). |
 | `pseudoname-looped.bf` | Prints my pseudoname using loops (optimized version). |
 
