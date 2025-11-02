@@ -1,1 +1,42 @@
 # My-First-BrainFuck-Programs
+# 🧠 My First GitHub Project — Brainfuck Experiments
+
+This is my first GitHub repository.  
+It contains my handcrafted Brainfuck programs — written from scratch and designed to understand how minimal computation works.
+
+---
+
+## ⚙️ About Brainfuck
+Brainfuck is an esoteric programming language that uses only 8 commands:
+`> < + - . , [ ]`  
+It operates on a simple memory tape, making it a great way to learn how logic and memory interact at the lowest level.
+
+---
+
+## 🧪 Programs Included
+
+| File | Description |
+|------|--------------|
+| `hello-world.bf` | Prints "Hello, World!" |
+| `pseudoname-simple.bf` | Prints my pseudoname (no loops). |
+| `pseudoname-looped.bf` | Prints my pseudoname using loops (optimized version). |
+
+---
+
+## 🧠 What I Learned
+- How ASCII codes work behind characters  
+- Loop logic and memory cell manipulation  
+- Writing minimal programs with precision and patience  
+
+---
+
+## 📚 Future Goals
+- Learn arithmetic operations (addition/subtraction)  
+- Explore **Malbolge** next  
+- Continue understanding the core of computation  
+
+---
+
+## 🧩 Author
+**Noob** — a high school student exploring computer science through curiosity and logic.  
+> "A single cell, eight symbols — infinite possibility."
