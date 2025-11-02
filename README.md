@@ -32,11 +32,11 @@ It operates on a simple memory tape, making it a great way to learn how logic an
 
 ## 📚 Future Goals
 - Learn arithmetic operations (addition/subtraction)  
-- Explore **Malbolge** next  
+   
 - Continue understanding the core of computation  
 
 ---
 
 ## 🧩 Author
-**Noob** — a high school student exploring computer science through curiosity and logic.  
+**Noob** — student exploring computer science through curiosity and logic.  
 > "A single cell, eight symbols — infinite possibility."
