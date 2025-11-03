@@ -2,7 +2,7 @@
 # 🧠 My First GitHub Project — Brainfuck Experiments
 
 This is my first GitHub repository.  
-It contains my handcrafted Brainfuck programs — written from scratch and designed to understand how minimal computation works.
+It contains my Brainfuck programs — written from scratch and designed to understand how minimal computation works.
 
 ---
 
